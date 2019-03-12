@@ -1,0 +1,25 @@
+{
+  "name": "mobile-height",
+  "version": "0.1.0",
+  "description": "Implements a mobile address-bar height change event",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squirrel-forge/mobile-height.git"
+  },
+  "keywords": [
+    "browser",
+    "mobile",
+    "javascript",
+    "es5"
+  ],
+  "author": "me@siux.info",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squirrel-forge/mobile-height/issues"
+  },
+  "homepage": "https://github.com/squirrel-forge/mobile-height#readme"
+}
